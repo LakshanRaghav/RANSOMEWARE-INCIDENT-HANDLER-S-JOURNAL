@@ -1,4 +1,4 @@
-# RANSOMEWARE-INCIDENT-HANDLER-S-JOURNAL
+# RANSOMEWARE-INCIDENT-HANDLER-TRIAGE-JOURNAL
 As a part of Google certified cybersecurity specialization this an activity of creating an Incident handler's Journal about a U.S. Health clinic experienced a Ransomware incident disrupting their critical operation 
 
 **Incident handler's journal**
